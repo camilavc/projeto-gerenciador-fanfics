@@ -1,2 +1,2 @@
 # projeto-gerenciador-fanfics
-Projeto realizado para a pré-aula de terça-feira do professor Daniel
+Projeto web de um gerenciador feito em PHP e Laravel, realizado no quinto semestre, para nota única.
